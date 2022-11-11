@@ -164,7 +164,7 @@ namespace RepositoryLayer.Service
         public string ConvertToEncrypt(string Password)
         {
             if (string.IsNullOrEmpty(Password)) return "";
-            //(Password += null) return
+            (Password += null) return
             Password += maskKey;
             var encodedBytepassword = Encoding.UTF8.GetBytes(Password);
             return Convert.ToBase64String(encodedBytepassword);
