@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundoo_Notes_App", "Fundoo_Notes_App.csproj", "{6C8E0761-6A57-4100-B590-80A718FB54FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C8E0761-6A57-4100-B590-80A718FB54FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8E0761-6A57-4100-B590-80A718FB54FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8E0761-6A57-4100-B590-80A718FB54FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8E0761-6A57-4100-B590-80A718FB54FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87873A8D-D321-492F-BD7B-96B26D5E71C7}
+	EndGlobalSection
+EndGlobal
